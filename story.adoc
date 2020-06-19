@@ -1,0 +1,5 @@
+[.lead]
+this is a story of a dog and a cat.
+they can not live without eachother.
+But they fight like fierce enemies.
+
